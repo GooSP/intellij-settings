@@ -1,0 +1,37 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="NamedScopeManager">
+        <scope name="Unnamed" pattern="PEGASS_ACTION_GROUPE_ACTION.xml" />
+      </component>
+      <component name="ProjectViewState">
+        <option name="compactDirectories" value="true" />
+        <option name="flattenModules" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <last-edited>Unnamed</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41643324" />
+                  </list>
+                </option>
+              </splitter-proportions>
+              <order>
+                <scope name="Unnamed" />
+              </order>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

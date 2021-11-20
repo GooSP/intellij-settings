@@ -1,0 +1,11 @@
+<application>
+  <component name="Vcs.Log.App.Settings">
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+</application>

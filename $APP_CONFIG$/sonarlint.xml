@@ -1,0 +1,17 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://ic-sonar.sii-ouest.fr/sonar" />
+          <token>df9edf9ddf9edf9ddf9ddf93dfccdf99dfc9dfcbdfcfdfccdfc9df9ddf99dfc9df9bdfc8dfcedfc8df9cdfcbdfc9df9fdf9edfc8dfccdf9cdfc9dfcfdf98dfc8df99df9cdf9cdfcedfcbdf98df9bdf9f</token>
+          <option name="name" value="sonar sii" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
